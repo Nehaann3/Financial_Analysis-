@@ -37,5 +37,12 @@ Top-performing products contributing to the overall sales revenue are products 2
   Order Quantity by Year indicates a decline in order quantity in recent years.
   Markup Percentage(Markup percentage represents the increase in selling price over the cost price, expressed as a percentage of the cost)  shows fluctuations in profitability over time, with a peak in 2017.
 
+  ###Technical Skills Demonstrated
+
+* Financial Ratio Calculations
+* Data Modeling
+* Interactive Visualization
+* Power BI Development
+
  
 
